@@ -1,16 +1,30 @@
-# flutter_shady_weather_demo
+# Flutter ShadyWeather Demo
 
-A new Flutter project.
+Immerse yourself in the atmospheric beauty of weather conditions with **Flutter ShadyWeather Demo**, an innovative Flutter Weather App. Dynamic shaders bring the forecast to life, providing a real-time visual spectacle that adapts seamlessly to changing weather conditions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/monster555/flutter_shady_weather_demo/assets/32662133/535d5e75-4450-45ac-a299-0d3ac86bc68e
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Like this project? Consider supporting its upkeep with a coffee. Your generosity is appreciated! ☕
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.buymeacoffee.com/danicoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Realistic Weather Rendering
+
+Witness the magic of shaders as the app dynamically adapts to weather changes. Feel the raindrops or see the snowfall, all rendered in real-time to create a visually stunning and immersive weather experience.
+
+## Use Case Demo
+
+This project serves as a demo, showcasing the integration of dynamic shaders in a real-life Flutter app scenario. Visualize the transformative power of shaders in a unique and engaging weather experience.
+
+## Resources
+For more information on writing and using fragment shaders in Flutter, check out the [Flutter documentation on fragment shaders](https://docs.flutter.dev/ui/design/graphics/fragment-shaders).
+
+## Acknowledgements
+The shaders used in this demo were not written by me. They were authored by the following individuals:
+
+- [Wet Glass](https://www.shadertoy.com/view/XdBBzh): Authored by [Jodie](https://www.shadertoy.com/user/Jodie)
+- [Just Snow](https://www.shadertoy.com/view/ldsGDn): Authored by [baldand](https://www.shadertoy.com/user/baldand)
+
+All credit for the shader code goes to them.
