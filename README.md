@@ -3,7 +3,7 @@
 Immerse yourself in the atmospheric beauty of weather conditions with **Flutter ShadyWeather Demo**, an innovative Flutter Weather App. Dynamic shaders bring the forecast to life, providing a real-time visual spectacle that adapts seamlessly to changing weather conditions.
 
 
-https://github.com/monster555/flutter_shady_weather_demo/assets/32662133/535d5e75-4450-45ac-a299-0d3ac86bc68e
+https://github.com/monster555/flutter_shady_weather_demo/assets/32662133/b4bba427-f222-4a9a-8834-55ebb4b2b272
 
 
 Like this project? Consider supporting its upkeep with a coffee. Your generosity is appreciated! ☕
